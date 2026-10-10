@@ -1,4 +1,4 @@
-Arki1he's *⭐**Star this repo if it was useful to you**⭐*
+ Arki1he's *⭐**Star this repo if it was useful to you**⭐*
 
 - [Covers Stats](https://github.com/xlenore/psx-covers#covers-stats "Covers Stats")
 - [PSCoverDL App](https://github.com/xlenore/psx-covers#PSCoverDL)
